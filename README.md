@@ -112,10 +112,6 @@ Submit these to the Google Form:
 5. API endpoint URL (your-deployed-url.com/solve)
 6. GitHub repo URL (public with MIT LICENSE)
 
-## Evaluation
-
-**Date**: Saturday, 29 Nov 2025  
-**Time**: 3:00 PM - 4:00 PM IST
 
 Your endpoint must:
 - Respond within 3 minutes

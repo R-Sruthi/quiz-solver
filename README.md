@@ -10,7 +10,6 @@ quiz-solver/
 ├── data_processor.py       # Data processing utilities
 ├── requirements.txt        # Python dependencies
 ├── .env                    # Environment variables (create from .env.example)
-├── Dockerfile             # Docker configuration
 ├── test_endpoint.py       # Testing script
 └── README.md              # This file
 ```
